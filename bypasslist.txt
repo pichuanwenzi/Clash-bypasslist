@@ -1,6 +1,4 @@
 payload:
-  - '+.dl.delivery.mp.microsoft.com'
-  - '+.115.com'
   - 'steampipe.steamcontent.tnkjmec.com'
   - 'st.dl.eccdnx.com'
   - 'st.dl.bscstorage.net'
@@ -11,6 +9,8 @@ payload:
   - 'cdn-qc.content.steamchina.com'
   - 'cdn-ali.content.steamchina.com'
   - '+.steamcontent.com'
+  - '+.dl.delivery.mp.microsoft.com'
+  - '+.115.com'
   - 'ssl-lvlt.cdn.ea.com'
   - 'origin-a.akamaihd.net'
   - 'client05.pdl.wow.battlenet.com.cn'
