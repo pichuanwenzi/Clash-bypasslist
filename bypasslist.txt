@@ -1,4 +1,5 @@
 payload:
+  - 'yacd.haishan.me'
   - '+.download.nvidia.com'
   - 'level3.blizzard.com'
   - 'blzddist1-a.akamaihd.net'
@@ -8,3 +9,4 @@ payload:
   - 'eu.cdn.blizzard.com'
   - 'cdn.gog.com'
   - 'galaxy-client-update.gog.com'
+  - 'huodroid-my.sharepoint.com'
