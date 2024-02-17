@@ -1,7 +1,6 @@
 payload:
   - 'yacd.haishan.me'
   - '+.download.nvidia.com'
-  - '+.xboxlive.com'
   - 'level3.blizzard.com'
   - 'blzddist1-a.akamaihd.net'
   - 'blzddistkr1-a.akamaihd.net'
