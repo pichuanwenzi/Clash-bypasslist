@@ -11,4 +11,4 @@ payload:
   - 'galaxy-client-update.gog.com'
   - 'huodroid-my.sharepoint.com'
   - 'drivers.amd.com'
-  - '+.rscazvdbfpbyzqdvpylm.com'
+  - 'default.exp-tas.com'
