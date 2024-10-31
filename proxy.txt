@@ -1,3 +1,4 @@
 payload:
   - '+.gstatic.com'
   - '+.googleapis.com'
+  - '+.pki.goog'
