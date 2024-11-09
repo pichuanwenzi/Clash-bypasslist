@@ -12,3 +12,4 @@ payload:
   - 'huodroid-my.sharepoint.com'
   - 'drivers.amd.com'
   - 'default.exp-tas.com'
+  - 'graph.microsoft.com'
