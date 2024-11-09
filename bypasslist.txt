@@ -13,6 +13,3 @@ payload:
   - 'drivers.amd.com'
   - 'default.exp-tas.com'
   - 'graph.microsoft.com'
-  - '+.msftconnecttest.com'
-  - 'store-images.s-microsoft.com'
-  - 'images-eds-ssl.xboxlive.com'
