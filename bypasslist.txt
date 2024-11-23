@@ -14,4 +14,3 @@ payload:
   - 'default.exp-tas.com'
   - 'graph.microsoft.com'
   - '+.msftconnecttest.com'
-  - 'store.ubi.com'
