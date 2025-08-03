@@ -1,17 +1,17 @@
 payload:
-  - 'yacd.haishan.me'
-  - '+.download.nvidia.com'
-  - 'level3.blizzard.com'
-  - 'blzddist1-a.akamaihd.net'
-  - 'blzddistkr1-a.akamaihd.net'
-  - 'kr.cdn.blizzard.com'
-  - 'us.cdn.blizzard.com'
-  - 'eu.cdn.blizzard.com'
-  - 'cdn.gog.com'
-  - 'galaxy-client-update.gog.com'
-  - 'huodroid-my.sharepoint.com'
-  - 'drivers.amd.com'
-  - 'default.exp-tas.com'
-  - 'graph.microsoft.com'
-  - 'www.msftconnecttest.com'
-  - 'local.adguard.org'
+- DOMAIN,yacd.haishan.me
+- DOMAIN-WILDCARD,+.download.nvidia.com
+- DOMAIN,level3.blizzard.com
+- DOMAIN,blzddist1-a.akamaihd.net
+- DOMAIN,blzddistkr1-a.akamaihd.net
+- DOMAIN,kr.cdn.blizzard.com
+- DOMAIN,us.cdn.blizzard.com
+- DOMAIN,eu.cdn.blizzard.com
+- DOMAIN,cdn.gog.com
+- DOMAIN,galaxy-client-update.gog.com
+- DOMAIN,huodroid-my.sharepoint.com
+- DOMAIN,drivers.amd.com
+- DOMAIN,default.exp-tas.com
+- DOMAIN,graph.microsoft.com
+- DOMAIN,www.msftconnecttest.com
+- AND,((DOMAIN-WILDCARD,+.lma1b2.com),(NETWORK,UDP))
