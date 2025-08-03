@@ -15,4 +15,4 @@ payload:
 - DOMAIN,graph.microsoft.com
 - DOMAIN,www.msftconnecttest.com
 - DOMAIN-WILDCARD,+.lma1b2.com
-- OR,((NETWORK,UDP),(DOMAIN-WILDCARD,'+.lma1b2.com')),DIRECT
+- OR,((NETWORK,UDP),(DOMAIN-WILDCARD,'+.lma1b2.com'))
