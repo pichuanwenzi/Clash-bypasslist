@@ -1,6 +1,6 @@
 payload:
 - DOMAIN,yacd.haishan.me
-- DOMAIN-WILDCARD,+.download.nvidia.com
+- DOMAIN-KEYWORD,download.nvidia.com
 - DOMAIN,level3.blizzard.com
 - DOMAIN,blzddist1-a.akamaihd.net
 - DOMAIN,blzddistkr1-a.akamaihd.net
@@ -14,5 +14,5 @@ payload:
 - DOMAIN,default.exp-tas.com
 - DOMAIN,graph.microsoft.com
 - DOMAIN,www.msftconnecttest.com
-- DOMAIN-WILDCARD,+.lma1b2.com
-- OR,((NETWORK,UDP),(DOMAIN-WILDCARD,'+.lma1b2.com'))
+- DOMAIN-KEYWORD,lma1b2.com
+- OR,((NETWORK,UDP),(DOMAIN-KEYWORD,lma1b2.com))
