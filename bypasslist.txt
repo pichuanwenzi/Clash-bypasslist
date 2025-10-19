@@ -15,4 +15,6 @@ payload:
 - DOMAIN,graph.microsoft.com
 - DOMAIN,www.msftconnecttest.com
 - DOMAIN-KEYWORD,lma1b2.com
+- DOMAIN-KEYWORD,kaspersky
+- DOMAIN-KEYWORD,yongshangtech
 - AND,((NETWORK,UDP),(DOMAIN-SUFFIX,lma1b2.com))
