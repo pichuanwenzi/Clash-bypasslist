@@ -23,3 +23,6 @@ payload:
   - DOMAIN,login.microsoftonline.com
 
   - DOMAIN-SUFFIX,cloudapp.azure.com
+
+  # TitleStorage backend (Azure Blob)
+  - DOMAIN-SUFFIX,blob.core.windows.net
