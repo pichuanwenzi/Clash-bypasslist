@@ -21,3 +21,5 @@ payload:
   - DOMAIN,account.live.com
   - DOMAIN,oauth.live.com
   - DOMAIN,login.microsoftonline.com
+
+  - DOMAIN-SUFFIX,cloudapp.azure.com
