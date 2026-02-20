@@ -26,3 +26,11 @@ payload:
 
   # TitleStorage backend (Azure Blob)
   - DOMAIN-SUFFIX,blob.core.windows.net
+
+  # Microsoft Store / Licensing
+  - DOMAIN,licensing.mp.microsoft.com
+  - DOMAIN,collections.mp.microsoft.com
+
+  # OCSP / CRL（证书吊销校验）
+  - DOMAIN,oneocsp.microsoft.com
+  - DOMAIN,crl3.digicert.com
