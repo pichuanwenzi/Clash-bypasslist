@@ -1,0 +1,299 @@
+payload:
+  # =========================
+  # Tencent / 腾讯
+  # =========================
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,QQNT.exe
+  - PROCESS-NAME,TIM.exe
+  - PROCESS-NAME,WeCom.exe
+  - PROCESS-NAME,QQLive.exe
+  - PROCESS-NAME,TencentVideo.exe
+  - PROCESS-NAME,TenioDL.exe
+  - PROCESS-NAME,WeMeetApp.exe
+  - PROCESS-NAME,TencentDocs.exe
+  - PROCESS-NAME,QQMusic.exe
+  - PROCESS-NAME,QQBrowser.exe
+  - PROCESS-NAME,WeGame.exe
+  - PROCESS-NAME,wegameapp.exe
+  - PROCESS-NAME,TGAssistant.exe
+  - PROCESS-NAME,TenioDL.exe
+  - PROCESS-NAME,TXPlatform.exe
+  - PROCESS-NAME,tenpay.exe
+
+  - PROCESS-NAME,com.tencent.mm
+  - PROCESS-NAME,com.tencent.mobileqq
+  - PROCESS-NAME,com.tencent.tim
+  - PROCESS-NAME,com.tencent.wework
+  - PROCESS-NAME,com.tencent.qqlive
+  - PROCESS-NAME,com.tencent.qqlivekid
+  - PROCESS-NAME,com.tencent.weishi
+  - PROCESS-NAME,com.tencent.qqmusic
+  - PROCESS-NAME,com.tencent.mtt
+  - PROCESS-NAME,com.tencent.mobileqqi
+  - PROCESS-NAME,com.tencent.wemeet.app
+  - PROCESS-NAME,com.tencent.docs
+  - PROCESS-NAME,com.tencent.wegame
+  - PROCESS-NAME,com.tencent.tmgp.sgame
+  - PROCESS-NAME,com.tencent.tmgp.pubgmhd
+  - PROCESS-NAME,com.tencent.tmgp.cf
+  - PROCESS-NAME,com.tencent.tmgp.gods
+  - PROCESS-NAME,com.tencent.tmgp.speedmobile
+  - PROCESS-NAME,com.tencent.tmgp.wuxia
+  - PROCESS-NAME,com.tencent.tmgp.cod
+  - PROCESS-NAME,com.tencent.tmgp.dnf
+
+  # =========================
+  # Alibaba / 阿里系（支付宝/淘宝/高德/钉钉/闲鱼/菜鸟…）
+  # =========================
+  - PROCESS-NAME,AliPay.exe
+  - PROCESS-NAME,Alipay.exe
+  - PROCESS-NAME,Taobao.exe
+  - PROCESS-NAME,AliIM.exe
+  - PROCESS-NAME,DingTalk.exe
+  - PROCESS-NAME,AliDrive.exe
+  - PROCESS-NAME,Youku.exe
+  - PROCESS-NAME,Quark.exe
+  - PROCESS-NAME,Amap.exe
+
+  - PROCESS-NAME,com.eg.android.AlipayGphone
+  - PROCESS-NAME,com.taobao.taobao
+  - PROCESS-NAME,com.tmall.wireless
+  - PROCESS-NAME,com.taobao.idlefish
+  - PROCESS-NAME,com.alibaba.android.rimet
+  - PROCESS-NAME,com.autonavi.minimap
+  - PROCESS-NAME,com.youku.phone
+  - PROCESS-NAME,com.alicloud.databox
+  - PROCESS-NAME,com.alibaba.aliyun
+  - PROCESS-NAME,com.quark.browser
+  - PROCESS-NAME,com.ucmobile
+  - PROCESS-NAME,com.cainiao.wireless
+  - PROCESS-NAME,com.taobao.trip
+  - PROCESS-NAME,com.taobao.ju.android
+  - PROCESS-NAME,com.taobao.qianniu
+  - PROCESS-NAME,com.alibaba.wireless
+  - PROCESS-NAME,com.ali.money.shield
+
+  # =========================
+  # ByteDance / 字节跳动（抖音/今日头条/西瓜/飞书/剪映…）
+  # =========================
+  - PROCESS-NAME,Douyin.exe
+  - PROCESS-NAME,Toutiao.exe
+  - PROCESS-NAME,CapCut.exe
+  - PROCESS-NAME,Feishu.exe
+
+  - PROCESS-NAME,com.ss.android.ugc.aweme
+  - PROCESS-NAME,com.ss.android.ugc.aweme.mobile
+  - PROCESS-NAME,com.ss.android.article.news
+  - PROCESS-NAME,com.ss.android.article.video
+  - PROCESS-NAME,com.ss.android.ugc.live
+  - PROCESS-NAME,com.ss.android.lark
+  - PROCESS-NAME,com.lemon.lv
+  - PROCESS-NAME,com.lemon.lvoverseas
+  - PROCESS-NAME,com.dragon.read
+  - PROCESS-NAME,com.ss.android.auto
+  - PROCESS-NAME,com.ss.android.ugc.aweme.lite
+  - PROCESS-NAME,com.ss.android.article.lite
+
+  # =========================
+  # Baidu / 百度（网盘/地图/贴吧/输入法/文库…）
+  # =========================
+  - PROCESS-NAME,BaiduNetdisk.exe
+  - PROCESS-NAME,BaiduYunGuanjia.exe
+  - PROCESS-NAME,BaiduMap.exe
+  - PROCESS-NAME,Baidu.exe
+  - PROCESS-NAME,BaiduHi.exe
+
+  - PROCESS-NAME,com.baidu.netdisk
+  - PROCESS-NAME,com.baidu.BaiduMap
+  - PROCESS-NAME,com.baidu.searchbox
+  - PROCESS-NAME,com.baidu.tieba
+  - PROCESS-NAME,com.baidu.input
+  - PROCESS-NAME,com.baidu.wenku
+  - PROCESS-NAME,com.baidu.baike
+  - PROCESS-NAME,com.baidu.haokan
+  - PROCESS-NAME,com.baidu.video
+  - PROCESS-NAME,com.baidu.browser.apps
+  - PROCESS-NAME,com.baidu.mobads.demo
+
+  # =========================
+  # NetEase / 网易（云音乐/邮箱/大神/网易新闻/游戏…）
+  # =========================
+  - PROCESS-NAME,cloudmusic.exe
+  - PROCESS-NAME,MailMaster.exe
+  - PROCESS-NAME,YoudaoDict.exe
+
+  - PROCESS-NAME,com.netease.cloudmusic
+  - PROCESS-NAME,com.netease.mail
+  - PROCESS-NAME,com.netease.mobimail
+  - PROCESS-NAME,com.netease.newsreader.activity
+  - PROCESS-NAME,com.netease.gacha
+  - PROCESS-NAME,com.youdao.dict
+  - PROCESS-NAME,com.youdao.note
+  - PROCESS-NAME,com.netease.dd
+  - PROCESS-NAME,com.netease.lofter
+  - PROCESS-NAME,com.netease.mhxyhtb
+  - PROCESS-NAME,com.netease.onmyoji
+  - PROCESS-NAME,com.netease.hyxd
+
+  # =========================
+  # JD / 京东系
+  # =========================
+  - PROCESS-NAME,JdLauncher.exe
+  - PROCESS-NAME,JDMail.exe
+
+  - PROCESS-NAME,com.jingdong.app.mall
+  - PROCESS-NAME,com.jd.jrapp
+  - PROCESS-NAME,com.jingdong.pdj
+  - PROCESS-NAME,com.jd.mrd.jingming
+  - PROCESS-NAME,com.jd.health
+  - PROCESS-NAME,com.jdcloud.app
+
+  # =========================
+  # Meituan / 美团系（美团/点评/外卖/单车…）
+  # =========================
+  - PROCESS-NAME,Meituan.exe
+
+  - PROCESS-NAME,com.sankuai.meituan
+  - PROCESS-NAME,com.dianping.v1
+  - PROCESS-NAME,com.sankuai.meituan.takeoutnew
+  - PROCESS-NAME,com.meituan.banma
+  - PROCESS-NAME,com.sankuai.taxi
+  - PROCESS-NAME,com.sankuai.movie
+
+  # =========================
+  # Didi / 滴滴
+  # =========================
+  - PROCESS-NAME,com.sdu.didi.psnger
+  - PROCESS-NAME,com.didi.es.psngr
+  - PROCESS-NAME,com.didichuxing.doraemonkit
+
+  # =========================
+  # Bilibili / 哔哩哔哩
+  # =========================
+  - PROCESS-NAME,bilibili.exe
+  - PROCESS-NAME,BiliBili.exe
+
+  - PROCESS-NAME,tv.danmaku.bili
+  - PROCESS-NAME,tv.danmaku.bilibilihd
+  - PROCESS-NAME,tv.danmaku.bilibililive
+  - PROCESS-NAME,com.bilibili.app.in
+
+  # =========================
+  # Xiaohongshu / 小红书
+  # =========================
+  - PROCESS-NAME,com.xingin.xhs
+
+  # =========================
+  # Kuaishou / 快手
+  # =========================
+  - PROCESS-NAME,com.smile.gifmaker
+  - PROCESS-NAME,com.kuaishou.nebula
+
+  # =========================
+  # Weibo / 微博
+  # =========================
+  - PROCESS-NAME,Weibo.exe
+  - PROCESS-NAME,com.sina.weibo
+
+  # =========================
+  # Zhihu / 知乎
+  # =========================
+  - PROCESS-NAME,com.zhihu.android
+
+  # =========================
+  # Tencent/Baidu Input etc. (常见输入法)
+  # =========================
+  - PROCESS-NAME,com.tencent.qqpinyin
+  - PROCESS-NAME,com.sohu.inputmethod.sogou
+  - PROCESS-NAME,com.baidu.input
+
+  # =========================
+  # Sogou / 搜狗（浏览器/输入法）
+  # =========================
+  - PROCESS-NAME,SogouExplorer.exe
+  - PROCESS-NAME,SogouInput.exe
+  - PROCESS-NAME,com.sogou.activity.src
+
+  # =========================
+  # 360 / 奇虎
+  # =========================
+  - PROCESS-NAME,360se.exe
+  - PROCESS-NAME,360chrome.exe
+  - PROCESS-NAME,360safe.exe
+  - PROCESS-NAME,com.qihoo.browser
+  - PROCESS-NAME,com.qihoo.appstore
+  - PROCESS-NAME,com.qihoo.security
+
+  # =========================
+  # Xiaomi / 小米（商店/云服务/运动健康）
+  # =========================
+  - PROCESS-NAME,com.xiaomi.market
+  - PROCESS-NAME,com.xiaomi.youpin
+  - PROCESS-NAME,com.xiaomi.smarthome
+  - PROCESS-NAME,com.miui.cloudservice
+  - PROCESS-NAME,com.miui.cloudbackup
+  - PROCESS-NAME,com.xiaomi.account
+  - PROCESS-NAME,com.xiaomi.hm.health
+  - PROCESS-NAME,com.mi.health
+
+  # =========================
+  # Huawei / 华为（应用市场/运动健康）
+  # =========================
+  - PROCESS-NAME,com.huawei.appmarket
+  - PROCESS-NAME,com.huawei.health
+  - PROCESS-NAME,com.huawei.hwid
+
+  # =========================
+  # OPPO / vivo（商店/账号）
+  # =========================
+  - PROCESS-NAME,com.oppo.market
+  - PROCESS-NAME,com.oppo.usercenter
+  - PROCESS-NAME,com.vivo.appstore
+  - PROCESS-NAME,com.bbk.account
+
+  # =========================
+  # UnionPay / 银联 & 银行常见（只列“通用大类”，具体各行你可补）
+  # =========================
+  - PROCESS-NAME,com.unionpay
+  - PROCESS-NAME,com.cloudpayments.jumppay
+  - PROCESS-NAME,com.chinamworld.main
+
+  # =========================
+  # China Mobile/Unicom/Telecom / 三大运营商
+  # =========================
+  - PROCESS-NAME,com.greenpoint.android.mc10086.activity
+  - PROCESS-NAME,com.sinovatech.unicom.ui
+  - PROCESS-NAME,com.ct.client
+
+  # =========================
+  # 12306 & 航旅常见
+  # =========================
+  - PROCESS-NAME,com.MobileTicket
+  - PROCESS-NAME,ctrip.android.view
+  - PROCESS-NAME,com.Qunar
+  - PROCESS-NAME,com.taobao.trip
+
+  # =========================
+  # Office/Doc 常见（WPS/石墨/金山文档）
+  # =========================
+  - PROCESS-NAME,wps.exe
+  - PROCESS-NAME,et.exe
+  - PROCESS-NAME,wpp.exe
+  - PROCESS-NAME,com.kingsoftwps
+  - PROCESS-NAME,com.shimo.app
+  - PROCESS-NAME,com.kingsoft.docs
+
+  # =========================
+  # Games / 游戏平台（常见）
+  # =========================
+  - PROCESS-NAME,Steam.exe
+  - PROCESS-NAME,EpicGamesLauncher.exe
+  - PROCESS-NAME,WeGame.exe
+
+  - PROCESS-NAME,com.tencent.tmgp
+  - PROCESS-NAME,com.netease
+  - PROCESS-NAME,com.miHoYo
+  - PROCESS-NAME,com.miHoYo.Yuanshen
+  - PROCESS-NAME,com.miHoYo.hkrpg
+  - PROCESS-NAME,com.miHoYo.Hyperion
