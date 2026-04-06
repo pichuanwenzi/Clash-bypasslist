@@ -19,4 +19,5 @@ payload:
 - DOMAIN-KEYWORD,yongshangtech
 - DOMAIN,openai.gallerycdn.vsassets.io
 - DOMAIN, openai.gallery.vsassets.io
+- DOMAIN, dl.dell.com
 - AND,((NETWORK,UDP),(DOMAIN-SUFFIX,lma1b2.com))
