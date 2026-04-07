@@ -22,5 +22,5 @@ payload:
 - DOMAIN,download-cdn.jetbrains.com
 - DOMAIN,update.code.visualstudio.com
 - DOMAIN,main.vscode-cdn.net
-- DOMAIN, dl.dell.com
+- DOMAIN,dl.dell.com
 - AND,((NETWORK,UDP),(DOMAIN-SUFFIX,lma1b2.com))
