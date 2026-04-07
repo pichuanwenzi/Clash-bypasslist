@@ -17,7 +17,8 @@ payload:
 - DOMAIN-KEYWORD,lma1b2.com
 - DOMAIN-KEYWORD,kaspersky
 - DOMAIN-KEYWORD,yongshangtech
-- DOMAIN,openai.gallerycdn.vsassets.io
-- DOMAIN, openai.gallery.vsassets.io
+- DOMAIN,plugins.jetbrains.com
+- DOMAIN,downloads.marketplace.jetbrains.com
+- DOMAIN,update.code.visualstudio.com
 - DOMAIN, dl.dell.com
 - AND,((NETWORK,UDP),(DOMAIN-SUFFIX,lma1b2.com))
