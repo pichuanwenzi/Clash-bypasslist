@@ -19,6 +19,8 @@ payload:
 - DOMAIN-KEYWORD,yongshangtech
 - DOMAIN,plugins.jetbrains.com
 - DOMAIN,downloads.marketplace.jetbrains.com
+- DOMAIN,download-cdn.jetbrains.com
 - DOMAIN,update.code.visualstudio.com
+- DOMAIN,main.vscode-cdn.net
 - DOMAIN, dl.dell.com
 - AND,((NETWORK,UDP),(DOMAIN-SUFFIX,lma1b2.com))
