@@ -17,9 +17,6 @@ payload:
 - DOMAIN-KEYWORD,lma1b2.com
 - DOMAIN-KEYWORD,kaspersky
 - DOMAIN-KEYWORD,yongshangtech
-- DOMAIN,plugins.jetbrains.com
-- DOMAIN,downloads.marketplace.jetbrains.com
-- DOMAIN,download-cdn.jetbrains.com
 - DOMAIN,update.code.visualstudio.com
 - DOMAIN,main.vscode-cdn.net
 - DOMAIN,dl.dell.com
