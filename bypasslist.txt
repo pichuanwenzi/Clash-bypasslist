@@ -20,3 +20,4 @@ payload:
 - DOMAIN,update.code.visualstudio.com
 - DOMAIN,main.vscode-cdn.net
 - DOMAIN,dl.dell.com
+- DOMAIN-SUFFIX,download.nvidia.com,DIRECT
